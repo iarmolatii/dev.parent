@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 12:43:55</sys_created_on>
+        <sys_id>8842d7ee2fa32010ad135e972799b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_474483_dev_paren_dev_parent_ticket.x_474483_dev_paren.dev_parent_ticket_user</sys_name>
+        <sys_package display_value="Dev-Parent-App" source="x_474483_dev_paren">0e22dfae2fa32010ad135e972799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dev-Parent-App">0e22dfae2fa32010ad135e972799b60e</sys_scope>
+        <sys_security_acl display_value="x_474483_dev_paren_dev_parent_ticket">7f32d7ee2fa32010ad135e972799b6d2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8842d7ee2fa32010ad135e972799b6d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 12:43:55</sys_updated_on>
+        <sys_user_role display_value="x_474483_dev_paren.dev_parent_ticket_user" name="x_474483_dev_paren.dev_parent_ticket_user">3732d7ee2fa32010ad135e972799b66c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

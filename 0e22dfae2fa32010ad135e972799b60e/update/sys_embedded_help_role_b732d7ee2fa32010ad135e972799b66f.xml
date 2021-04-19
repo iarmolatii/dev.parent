@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_474483_dev_paren.dev_parent_ticket_user" name="x_474483_dev_paren.dev_parent_ticket_user">3732d7ee2fa32010ad135e972799b66c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 12:43:54</sys_created_on>
+        <sys_id>b732d7ee2fa32010ad135e972799b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3732d7ee2fa32010ad135e972799b66c</sys_name>
+        <sys_package display_value="Dev-Parent-App" source="x_474483_dev_paren">0e22dfae2fa32010ad135e972799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dev-Parent-App">0e22dfae2fa32010ad135e972799b60e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b732d7ee2fa32010ad135e972799b66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 12:43:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
